@@ -3,5 +3,8 @@ This package is for `npm` package creation demonstration
 
 ## Installation
 
-Run `npm install @ambroisebazie/core --save`
+Run the command below to the root of your porject.
+```console
+npm install @ambroisebazie/core --save
+```
 

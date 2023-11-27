@@ -1,9 +1,14 @@
 {
   "name": "@ambroisebazie/core",
-  "version": "0.0.4",
+  "version": "0.1.1",
   "peerDependencies": {
     "@angular/common": "^17.0.0",
     "@angular/core": "^17.0.0"
+  },
+  "author": {
+    "name": "Ambroise BAZIE",
+    "email": "bazieambroise@gmail.com",
+    "url": "https://github.com/ognanshissi/nx-angular-package-demo"
   },
   "dependencies": {
     "tslib": "^2.3.0"
