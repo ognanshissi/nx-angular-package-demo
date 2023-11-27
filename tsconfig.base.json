@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ognanshissi/common": ["packages/common/src/index.ts"]
+      "@ognanshissi/common": ["packages/common/src/index.ts"],
+      "@ognanshissi/core": ["packages/core/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
