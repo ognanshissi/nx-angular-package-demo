@@ -1,7 +1,7 @@
-# core
+# Core components for application
+This package is for `npm` package creation demonstration
 
-This library was generated with [Nx](https://nx.dev).
+## Installation
 
-## Running unit tests
+Run `npm install @ambroisebazie/core --save`
 
-Run `nx test core` to execute the unit tests.
